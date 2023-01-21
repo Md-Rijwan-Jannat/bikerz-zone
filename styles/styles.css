@@ -10,36 +10,3 @@ li{
 }.gap{
   gap: 18px;
 }
-/* <section class=" container-fluid bg-dark p-3 rounded">
-        <div class="row row-cols-1 row-cols-lg-2 d-flex justify-content-around align-items-center">
-          <div class="col">
-            <p class=" text-light">Downlod Now   Lience</p>
-            <ul class="d-flex text-light">
-              <li class="me-2">About</li>
-              <li class="me-2">Features</li>
-              <li class="me-2">Pricing</li>
-              <li class="me-2">Careers</li>
-              <li class="me-2">Help</li>
-              <li class="me-2">Privacy Policy</li>
-            </ul>
-            <p class=" text-light">@ 2023 bike.All right reserved</p>
-          </div>
-          <div class="col text-light ms-5">
-            <h3>Get the App</h3>
-            <div class="border w-100 rounded-4 d-flex justify-content-center align-items-center mb-4 p-2 ">
-              <i class="fa-brands fa-apple fs-2"></i>
-              <div>
-                <p>Dowonlod on the</p>
-              <h4>App Store</h4>
-              </div>
-            </div>
-            <div class="border w-100 rounded-4 d-flex justify-content-center align-items-center p-2">
-              <i class="fa-brands fa-google-play fs-3"></i>
-              <div>
-                <p> Get It ON</p>
-                <h4>Google Play</h4>
-              </div>
-            </div>
-          </div>
-        </div>
-       </section> */
